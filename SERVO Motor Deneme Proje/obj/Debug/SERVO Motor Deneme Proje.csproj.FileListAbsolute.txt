@@ -1,0 +1,33 @@
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.csproj.AssemblyReference.cache
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje\SERVO Motor Deneme Proje\obj\Debug\SERVO_Motor_Deneme_Proje.Form1.resources
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje\SERVO Motor Deneme Proje\obj\Debug\SERVO_Motor_Deneme_Proje.Properties.Resources.resources
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.csproj.GenerateResource.cache
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.csproj.CoreCompileInputs.cache
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje\SERVO Motor Deneme Proje\bin\Debug\SERVO Motor Deneme Proje.exe.config
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje\SERVO Motor Deneme Proje\bin\Debug\SERVO Motor Deneme Proje.exe
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje\SERVO Motor Deneme Proje\bin\Debug\SERVO Motor Deneme Proje.pdb
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.exe
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.pdb
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\bin\Debug\SERVO Motor Deneme Proje.exe.config
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\bin\Debug\SERVO Motor Deneme Proje.exe
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\bin\Debug\SERVO Motor Deneme Proje.pdb
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.csproj.AssemblyReference.cache
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO_Motor_Deneme_Proje.Form1.resources
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO_Motor_Deneme_Proje.Properties.Resources.resources
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.csproj.GenerateResource.cache
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.csproj.CoreCompileInputs.cache
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.exe
+C:\Users\Sercan\Desktop\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.pdb
+C:\Users\serca\Desktop\PROJE(Vİsual)\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\bin\Debug\SERVO Motor Deneme Proje.exe.config
+C:\Users\serca\Desktop\PROJE(Vİsual)\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\bin\Debug\SERVO Motor Deneme Proje.exe
+C:\Users\serca\Desktop\PROJE(Vİsual)\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\bin\Debug\SERVO Motor Deneme Proje.pdb
+C:\Users\serca\Desktop\PROJE(Vİsual)\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.csproj.AssemblyReference.cache
+C:\Users\serca\Desktop\PROJE(Vİsual)\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\serca\Desktop\PROJE(Vİsual)\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO_Motor_Deneme_Proje.Form1.resources
+C:\Users\serca\Desktop\PROJE(Vİsual)\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO_Motor_Deneme_Proje.Properties.Resources.resources
+C:\Users\serca\Desktop\PROJE(Vİsual)\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.csproj.GenerateResource.cache
+C:\Users\serca\Desktop\PROJE(Vİsual)\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.csproj.CoreCompileInputs.cache
+C:\Users\serca\Desktop\PROJE(Vİsual)\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.exe
+C:\Users\serca\Desktop\PROJE(Vİsual)\SERVO Motor Deneme Proje(Oldu)\SERVO Motor Deneme Proje\obj\Debug\SERVO Motor Deneme Proje.pdb
